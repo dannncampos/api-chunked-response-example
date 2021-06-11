@@ -14,7 +14,7 @@ namespace Chunked.Controllers
     public class ChunkedController : ApiController
     {
 
-        [Route("chunked_stream_house")]
+        [Route("")]
         [HttpGet]
         [Compression(Enabled = false)]
         public HttpResponseMessage GetChunkedMessageStreamHouse()

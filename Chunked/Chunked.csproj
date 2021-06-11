@@ -90,7 +90,6 @@
   <ItemGroup>
     <Content Include="Global.asax" />
     <Content Include="Mock\houses_simple.json" />
-    <None Include="Mock\houses.json" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
